@@ -1,0 +1,169 @@
+{
+  "common": {
+    "search": "Meşhur'da ara",
+    "categories": "Kategoriler",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "cart": "Sepetim",
+    "favorites": "Favorilerim",
+    "support": "Yardım",
+    "language": "Dil",
+    "darkMode": "Karanlık Mod",
+    "lightMode": "Aydınlık Mod",
+    "allCategories": "Tüm Kategoriler",
+    "seeAll": "Tümünü Gör",
+    "loading": "Yükleniyor...",
+    "noResults": "Sonuç bulunamadı",
+    "error": "Bir hata oluştu",
+    "retry": "Tekrar dene"
+  },
+  "product": {
+    "addToCart": "Sepete Ekle",
+    "addToFavorites": "Favorilere Ekle",
+    "removeFromFavorites": "Favorilerden Çıkar",
+    "inStock": "Stokta",
+    "outOfStock": "Stokta Yok",
+    "description": "Ürün Açıklaması",
+    "specifications": "Özellikler",
+    "reviews": "Değerlendirmeler",
+    "relatedProducts": "Benzer Ürünler",
+    "pricePerUnit": "Birim fiyatı",
+    "freeShipping": "Ücretsiz Kargo",
+    "fastDelivery": "Hızlı Teslimat",
+    "securePayment": "Güvenli Ödeme",
+    "whyMeshur": "Neden Meşhur?",
+    "quantity": "Adet"
+  },
+  "home": {
+    "meta": {
+      "title": "Meşhur - Türkiye'nin En Meşhur Ürünleri",
+      "description": "Kaliteli ve güvenilir alışveriş deneyimi. Türkiye'nin en meşhur ürünleri şimdi kapınızda."
+    },
+    "hero": {
+      "title": "Türkiye'nin En Meşhur Ürünleri",
+      "subtitle": "Kaliteli ve güvenilir alışveriş deneyimi",
+      "cta": "Alışverişe Başla"
+    },
+    "bestSellers": "En İyi Seçimler",
+    "newArrivals": "Yeni Gelenler",
+    "featuredCategories": "Öne Çıkan Kategoriler",
+    "popularBrands": "Popüler Markalar",
+    "trustBadges": {
+      "freeShipping": "Ücretsiz Kargo",
+      "freeShippingDesc": "150 TL üzeri siparişlerde",
+      "securePayment": "Güvenli Ödeme",
+      "securePaymentDesc": "256-bit SSL şifreleme",
+      "fastDelivery": "Hızlı Teslimat",
+      "fastDeliveryDesc": "1-3 iş günü içinde",
+      "easyReturn": "Kolay İade",
+      "easyReturnDesc": "14 gün içinde ücretsiz iade"
+    }
+  },
+  "favorites": {
+    "title": "Favorilerim",
+    "empty": "Henüz favori ürününüz yok",
+    "emptyDescription": "Beğendiğiniz ürünleri favorilere ekleyerek daha sonra kolayca ulaşabilirsiniz.",
+    "exploreProducts": "Ürünleri Keşfet",
+    "itemCount": "{count} ürün"
+  },
+  "category": {
+    "meta": {
+      "title": "{name} - Meşhur",
+      "description": "{name} kategorisindeki ürünleri keşfedin. En uygun fiyatlar ve hızlı teslimat."
+    },
+    "filters": "Filtreler",
+    "sortBy": "Sırala",
+    "sortOptions": {
+      "recommended": "Önerilen",
+      "priceLowToHigh": "En düşük fiyat",
+      "priceHighToLow": "En yüksek fiyat",
+      "newest": "En yeniler",
+      "bestSelling": "En çok satanlar",
+      "topRated": "En yüksek puan"
+    },
+    "productsFound": "{count} ürün bulundu",
+    "allProducts": "Tüm Ürünler",
+    "breadcrumb": {
+      "home": "Ana Sayfa"
+    },
+    "filterLabels": {
+      "price": "Fiyat",
+      "priceRange": "Fiyat Aralığı",
+      "minPrice": "Min",
+      "maxPrice": "Max",
+      "inStock": "Stokta Olanlar",
+      "brand": "Marka",
+      "applyFilters": "Uygula",
+      "clearFilters": "Temizle"
+    }
+  },
+  "search": {
+    "meta": {
+      "title": "\"{query}\" için arama sonuçları - Meşhur",
+      "description": "\"{query}\" araması için {count} ürün bulundu."
+    },
+    "title": "Arama Sonuçları",
+    "resultsFor": "\"{query}\" için sonuçlar",
+    "resultsCount": "{count} ürün bulundu",
+    "noResults": "Sonuç bulunamadı",
+    "noResultsDescription": "\"{query}\" için sonuç bulunamadı. Farklı anahtar kelimeler deneyin.",
+    "emptyQuery": "Arama yapmak için bir kelime girin"
+  },
+  "cart": {
+    "title": "Sepetim",
+    "empty": "Sepetiniz boş",
+    "emptyDescription": "Sepetinize ürün ekleyerek alışverişe başlayabilirsiniz.",
+    "subtotal": "Ara Toplam",
+    "shipping": "Kargo",
+    "total": "Toplam",
+    "checkout": "Satın Al",
+    "continueShopping": "Alışverişe Devam Et",
+    "remove": "Kaldır",
+    "freeShipping": "Ücretsiz",
+    "itemCount": "{count} ürün",
+    "clearCart": "Sepeti Temizle",
+    "quantity": "Adet"
+  },
+  "footer": {
+    "corporate": {
+      "title": "Kurumsal",
+      "about": "Hakkımızda",
+      "careers": "Kariyer",
+      "press": "Basın",
+      "blog": "Blog"
+    },
+    "customer": {
+      "title": "Müşteri Hizmetleri",
+      "help": "Yardım Merkezi",
+      "returns": "İade ve Değişim",
+      "shipping": "Kargo ve Teslimat",
+      "contact": "İletişim"
+    },
+    "legal": {
+      "title": "Yasal",
+      "terms": "Kullanım Koşulları",
+      "privacy": "Gizlilik Politikası",
+      "cookies": "Çerez Politikası"
+    },
+    "social": {
+      "title": "Sosyal Medya"
+    },
+    "apps": {
+      "title": "Mobil Uygulama",
+      "download": "Uygulamayı İndir"
+    },
+    "copyright": "© 2024 Meşhur. Tüm hakları saklıdır."
+  },
+  "errors": {
+    "404": {
+      "title": "Sayfa Bulunamadı",
+      "description": "Aradığınız sayfa bulunamadı veya taşınmış olabilir.",
+      "backHome": "Ana Sayfaya Dön"
+    },
+    "500": {
+      "title": "Bir Hata Oluştu",
+      "description": "Bir şeyler yanlış gitti. Lütfen daha sonra tekrar deneyin.",
+      "retry": "Tekrar Dene"
+    }
+  }
+}

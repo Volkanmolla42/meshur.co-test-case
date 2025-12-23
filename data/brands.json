@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "La Roche-Posay",
+    "slug": "la-roche-posay",
+    "description": "Dermatolojik cilt bakımı markası",
+    "websiteUrl": "https://www.laroche-posay.com",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/La_Roche-Posay_logo.svg/200px-La_Roche-Posay_logo.svg.png"
+  },
+  {
+    "id": 2,
+    "name": "The Ordinary",
+    "slug": "the-ordinary",
+    "description": "Uygun fiyatlı, klinik formüller",
+    "websiteUrl": "https://theordinary.com",
+    "logoUrl": null
+  },
+  {
+    "id": 3,
+    "name": "Vichy",
+    "slug": "vichy",
+    "description": "Volkanik su ile zenginleştirilmiş cilt bakımı",
+    "websiteUrl": "https://www.vichy.com",
+    "logoUrl": null
+  },
+  {
+    "id": 4,
+    "name": "Bioderma",
+    "slug": "bioderma",
+    "description": "Hassas ciltler için çözümler",
+    "websiteUrl": "https://www.bioderma.com",
+    "logoUrl": null
+  },
+  {
+    "id": 5,
+    "name": "CeraVe",
+    "slug": "cerave",
+    "description": "Seramid içeren cilt bakımı",
+    "websiteUrl": "https://www.cerave.com",
+    "logoUrl": null
+  },
+  {
+    "id": 6,
+    "name": "Neutrogena",
+    "slug": "neutrogena",
+    "description": "Dermatolog önerisi cilt bakımı",
+    "websiteUrl": "https://www.neutrogena.com",
+    "logoUrl": null
+  },
+  {
+    "id": 7,
+    "name": "L'Oréal Paris",
+    "slug": "loreal-paris",
+    "description": "Güzellik ve kişisel bakım",
+    "websiteUrl": "https://www.loreal-paris.com",
+    "logoUrl": null
+  },
+  {
+    "id": 8,
+    "name": "Maybelline",
+    "slug": "maybelline",
+    "description": "Makyaj ve kozmetik",
+    "websiteUrl": "https://www.maybelline.com",
+    "logoUrl": null
+  },
+  {
+    "id": 9,
+    "name": "NYX Professional",
+    "slug": "nyx-professional",
+    "description": "Profesyonel makyaj ürünleri",
+    "websiteUrl": "https://www.nyxcosmetics.com",
+    "logoUrl": null
+  },
+  {
+    "id": 10,
+    "name": "Ülker",
+    "slug": "ulker",
+    "description": "Türkiye'nin en sevilen gıda markası",
+    "websiteUrl": "https://www.ulker.com.tr",
+    "logoUrl": null
+  },
+  {
+    "id": 11,
+    "name": "Eti",
+    "slug": "eti",
+    "description": "Lezzetli atıştırmalıklar",
+    "websiteUrl": "https://www.etieti.com.tr",
+    "logoUrl": null
+  },
+  {
+    "id": 12,
+    "name": "Tadelle",
+    "slug": "tadelle",
+    "description": "Çikolata ve gofret",
+    "websiteUrl": null,
+    "logoUrl": null
+  }
+]

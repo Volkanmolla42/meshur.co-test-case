@@ -1,0 +1,867 @@
+[
+  {
+    "id": 1,
+    "name": "Hyaluronik Asit Nemlendirici Serum 30ml",
+    "slug": "hyaluronik-asit-nemlendirici-serum-30ml",
+    "description": "Cilde yoğun nem sağlayan, hyaluronik asit içerikli serum. Tüm cilt tipleri için uygundur. Cildi nemlendirir, dolgunlaştırır ve sağlıklı bir görünüm kazandırır.",
+    "brandId": 2,
+    "brand": {
+      "id": 2,
+      "name": "The Ordinary",
+      "slug": "the-ordinary",
+      "description": "Uygun fiyatlı, klinik formüller",
+      "websiteUrl": "https://theordinary.com",
+      "logoUrl": null
+    },
+    "categoryId": 11,
+    "category": {
+      "id": 11,
+      "name": "Cilt Bakımı",
+      "slug": "cilt-bakimi",
+      "parentCategoryId": 1,
+      "imageId": null,
+      "image": null,
+      "children": [],
+      "attributes": []
+    },
+    "variants": [
+      {
+        "id": 1,
+        "price": 189.90,
+        "compareAtPrice": 249.90,
+        "stock": 150,
+        "barcode": "5060414400012",
+        "sku": "TO-HA-30",
+        "thumbnails": [
+          {
+            "id": 1,
+            "url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=600",
+            "alt": "Hyaluronik Asit Serum"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": "Çok Satan",
+    "rating": 4.8,
+    "reviewCount": 1256,
+    "createdAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2024-12-20T15:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Vitamin C %15 Aydınlatıcı Serum",
+    "slug": "vitamin-c-15-aydinlatici-serum",
+    "description": "Cilt tonunu eşitleyen, leke görünümünü azaltan, antioksidan etkili C vitamini serumu.",
+    "brandId": 2,
+    "brand": {
+      "id": 2,
+      "name": "The Ordinary",
+      "slug": "the-ordinary",
+      "description": null,
+      "websiteUrl": null,
+      "logoUrl": null
+    },
+    "categoryId": 11,
+    "category": null,
+    "variants": [
+      {
+        "id": 2,
+        "price": 299.90,
+        "compareAtPrice": null,
+        "stock": 89,
+        "barcode": "5060414400029",
+        "sku": "TO-VC-30",
+        "thumbnails": [
+          {
+            "id": 2,
+            "url": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=600",
+            "alt": "Vitamin C Serum"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": null,
+    "rating": 4.6,
+    "reviewCount": 834,
+    "createdAt": "2024-02-01T10:00:00Z",
+    "updatedAt": "2024-12-18T12:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Retinol %0.5 Gece Serumu",
+    "slug": "retinol-05-gece-serumu",
+    "description": "Yaşlanma karşıtı, cilt yenilenmesini destekleyen retinol serum. Gece kullanımı önerilir.",
+    "brandId": 2,
+    "brand": {
+      "id": 2,
+      "name": "The Ordinary",
+      "slug": "the-ordinary",
+      "description": null,
+      "websiteUrl": null,
+      "logoUrl": null
+    },
+    "categoryId": 11,
+    "category": null,
+    "variants": [
+      {
+        "id": 3,
+        "price": 349.90,
+        "compareAtPrice": 399.90,
+        "stock": 45,
+        "barcode": "5060414400036",
+        "sku": "TO-RET-30",
+        "thumbnails": [
+          {
+            "id": 3,
+            "url": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=600",
+            "alt": "Retinol Serum"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": "Yeni",
+    "rating": 4.7,
+    "reviewCount": 567,
+    "createdAt": "2024-03-10T10:00:00Z",
+    "updatedAt": "2024-12-19T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Effaclar Duo+ Bakım Kremi 40ml",
+    "slug": "effaclar-duo-bakim-kremi-40ml",
+    "description": "Akneye eğilimli ciltler için günlük bakım kremi. Gözenekleri sıkılaştırır, cildi matlaştırır.",
+    "brandId": 1,
+    "brand": {
+      "id": 1,
+      "name": "La Roche-Posay",
+      "slug": "la-roche-posay",
+      "description": "Dermatolojik cilt bakımı markası",
+      "websiteUrl": "https://www.laroche-posay.com",
+      "logoUrl": null
+    },
+    "categoryId": 11,
+    "category": null,
+    "variants": [
+      {
+        "id": 4,
+        "price": 649.90,
+        "compareAtPrice": null,
+        "stock": 200,
+        "barcode": "3337875598071",
+        "sku": "LRP-EFF-40",
+        "thumbnails": [
+          {
+            "id": 4,
+            "url": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600",
+            "alt": "Effaclar Duo+"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": "Çok Satan",
+    "rating": 4.5,
+    "reviewCount": 2341,
+    "createdAt": "2023-06-01T10:00:00Z",
+    "updatedAt": "2024-12-20T18:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Anthelios UVMune 400 SPF50+ Güneş Kremi",
+    "slug": "anthelios-uvmune-400-spf50-gunes-kremi",
+    "description": "Ultra geniş spektrumlu güneş koruması. UVA ve UVB ışınlarına karşı maksimum koruma.",
+    "brandId": 1,
+    "brand": {
+      "id": 1,
+      "name": "La Roche-Posay",
+      "slug": "la-roche-posay",
+      "description": null,
+      "websiteUrl": null,
+      "logoUrl": null
+    },
+    "categoryId": 11,
+    "category": null,
+    "variants": [
+      {
+        "id": 5,
+        "price": 899.90,
+        "compareAtPrice": 999.90,
+        "stock": 75,
+        "barcode": "3337875797511",
+        "sku": "LRP-ANT-50",
+        "thumbnails": [
+          {
+            "id": 5,
+            "url": "https://images.unsplash.com/photo-1556227834-09f1de7a7d14?w=600",
+            "alt": "Anthelios Güneş Kremi"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": "Sonbahar Seçimi",
+    "rating": 4.9,
+    "reviewCount": 1876,
+    "createdAt": "2023-04-15T10:00:00Z",
+    "updatedAt": "2024-12-21T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Sensibio H2O Misel Su 500ml",
+    "slug": "sensibio-h2o-misel-su-500ml",
+    "description": "Hassas ciltler için nazik temizleyici misel su. Makyajı ve kirleri nazikçe temizler.",
+    "brandId": 4,
+    "brand": {
+      "id": 4,
+      "name": "Bioderma",
+      "slug": "bioderma",
+      "description": "Hassas ciltler için çözümler",
+      "websiteUrl": "https://www.bioderma.com",
+      "logoUrl": null
+    },
+    "categoryId": 11,
+    "category": null,
+    "variants": [
+      {
+        "id": 6,
+        "price": 449.90,
+        "compareAtPrice": 549.90,
+        "stock": 320,
+        "barcode": "3401395376508",
+        "sku": "BIO-SEN-500",
+        "thumbnails": [
+          {
+            "id": 6,
+            "url": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600",
+            "alt": "Sensibio H2O"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": null,
+    "rating": 4.8,
+    "reviewCount": 3456,
+    "createdAt": "2022-01-01T10:00:00Z",
+    "updatedAt": "2024-12-20T14:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "PM Nemlendirici Gece Losyonu 52ml",
+    "slug": "pm-nemlendirici-gece-losyonu-52ml",
+    "description": "Gece kullanımı için seramid ve hyaluronik asit içeren nemlendirici losyon.",
+    "brandId": 5,
+    "brand": {
+      "id": 5,
+      "name": "CeraVe",
+      "slug": "cerave",
+      "description": "Seramid içeren cilt bakımı",
+      "websiteUrl": "https://www.cerave.com",
+      "logoUrl": null
+    },
+    "categoryId": 11,
+    "category": null,
+    "variants": [
+      {
+        "id": 7,
+        "price": 519.90,
+        "compareAtPrice": null,
+        "stock": 180,
+        "barcode": "3606000537477",
+        "sku": "CV-PM-52",
+        "thumbnails": [
+          {
+            "id": 7,
+            "url": "https://images.unsplash.com/photo-1570194065650-d99fb4b38b15?w=600",
+            "alt": "CeraVe PM Losyon"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": null,
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "createdAt": "2023-08-01T10:00:00Z",
+    "updatedAt": "2024-12-19T16:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Köpük Temizleyici 236ml",
+    "slug": "kopuk-temizleyici-236ml",
+    "description": "Normal-yağlı ciltler için nazik köpük temizleyici. Seramid ve niasinamid içerir.",
+    "brandId": 5,
+    "brand": {
+      "id": 5,
+      "name": "CeraVe",
+      "slug": "cerave",
+      "description": null,
+      "websiteUrl": null,
+      "logoUrl": null
+    },
+    "categoryId": 11,
+    "category": null,
+    "variants": [
+      {
+        "id": 8,
+        "price": 389.90,
+        "compareAtPrice": 449.90,
+        "stock": 250,
+        "barcode": "3606000537484",
+        "sku": "CV-FOAM-236",
+        "thumbnails": [
+          {
+            "id": 8,
+            "url": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=600",
+            "alt": "CeraVe Köpük Temizleyici"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": "Çok Satan",
+    "rating": 4.6,
+    "reviewCount": 2109,
+    "createdAt": "2023-02-15T10:00:00Z",
+    "updatedAt": "2024-12-21T08:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Hydro Boost Aqua Jel Nemlendirici",
+    "slug": "hydro-boost-aqua-jel-nemlendirici",
+    "description": "Su bazlı, yoğun nemlendirici jel. Cilde anında ferahlık ve nem sağlar.",
+    "brandId": 6,
+    "brand": {
+      "id": 6,
+      "name": "Neutrogena",
+      "slug": "neutrogena",
+      "description": "Dermatolog önerisi cilt bakımı",
+      "websiteUrl": "https://www.neutrogena.com",
+      "logoUrl": null
+    },
+    "categoryId": 11,
+    "category": null,
+    "variants": [
+      {
+        "id": 9,
+        "price": 429.90,
+        "compareAtPrice": null,
+        "stock": 140,
+        "barcode": "3574661527918",
+        "sku": "NEU-HB-50",
+        "thumbnails": [
+          {
+            "id": 9,
+            "url": "https://images.unsplash.com/photo-1556228841-a3c527ebefe5?w=600",
+            "alt": "Hydro Boost"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": null,
+    "rating": 4.5,
+    "reviewCount": 987,
+    "createdAt": "2023-05-20T10:00:00Z",
+    "updatedAt": "2024-12-18T11:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Revitalift Lazer X3 Gündüz Kremi SPF25",
+    "slug": "revitalift-lazer-x3-gunduz-kremi-spf25",
+    "description": "Pro-Retinol ve C vitamini içeren, kırışıklık görünümünü azaltan gündüz bakım kremi.",
+    "brandId": 7,
+    "brand": {
+      "id": 7,
+      "name": "L'Oréal Paris",
+      "slug": "loreal-paris",
+      "description": "Güzellik ve kişisel bakım",
+      "websiteUrl": "https://www.loreal-paris.com",
+      "logoUrl": null
+    },
+    "categoryId": 11,
+    "category": null,
+    "variants": [
+      {
+        "id": 10,
+        "price": 549.90,
+        "compareAtPrice": 699.90,
+        "stock": 95,
+        "barcode": "3600523455171",
+        "sku": "LOR-REV-50",
+        "thumbnails": [
+          {
+            "id": 10,
+            "url": "https://images.unsplash.com/photo-1556228994-72a1e0b91c0b?w=600",
+            "alt": "Revitalift Lazer X3"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": "İndirimli",
+    "rating": 4.4,
+    "reviewCount": 756,
+    "createdAt": "2023-07-01T10:00:00Z",
+    "updatedAt": "2024-12-17T09:00:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Fit Me Matte+Poreless Fondöten",
+    "slug": "fit-me-matte-poreless-fondoten",
+    "description": "Mat bitişli, gözenekleri kapatıcı fondöten. Normal-yağlı ciltler için ideal.",
+    "brandId": 8,
+    "brand": {
+      "id": 8,
+      "name": "Maybelline",
+      "slug": "maybelline",
+      "description": "Makyaj ve kozmetik",
+      "websiteUrl": "https://www.maybelline.com",
+      "logoUrl": null
+    },
+    "categoryId": 13,
+    "category": null,
+    "variants": [
+      {
+        "id": 11,
+        "price": 289.90,
+        "compareAtPrice": null,
+        "stock": 400,
+        "barcode": "3600530746569",
+        "sku": "MAY-FIT-220",
+        "thumbnails": [
+          {
+            "id": 11,
+            "url": "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e?w=600",
+            "alt": "Fit Me Fondöten"
+          }
+        ],
+        "options": [
+          { "id": 1, "title": "Renk", "value": "220 Natural Beige" }
+        ]
+      },
+      {
+        "id": 12,
+        "price": 289.90,
+        "compareAtPrice": null,
+        "stock": 350,
+        "barcode": "3600530746576",
+        "sku": "MAY-FIT-230",
+        "thumbnails": [
+          {
+            "id": 11,
+            "url": "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e?w=600",
+            "alt": "Fit Me Fondöten"
+          }
+        ],
+        "options": [
+          { "id": 2, "title": "Renk", "value": "230 Natural Buff" }
+        ]
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": null,
+    "rating": 4.3,
+    "reviewCount": 1543,
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2024-12-20T20:00:00Z"
+  },
+  {
+    "id": 12,
+    "name": "SuperStay Matte Ink Likit Ruj",
+    "slug": "superstay-matte-ink-likit-ruj",
+    "description": "16 saate kadar kalıcılık sunan, mat bitişli likit ruj.",
+    "brandId": 8,
+    "brand": {
+      "id": 8,
+      "name": "Maybelline",
+      "slug": "maybelline",
+      "description": null,
+      "websiteUrl": null,
+      "logoUrl": null
+    },
+    "categoryId": 13,
+    "category": null,
+    "variants": [
+      {
+        "id": 13,
+        "price": 249.90,
+        "compareAtPrice": 299.90,
+        "stock": 280,
+        "barcode": "3600531469443",
+        "sku": "MAY-SS-80",
+        "thumbnails": [
+          {
+            "id": 12,
+            "url": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=600",
+            "alt": "SuperStay Matte Ink"
+          }
+        ],
+        "options": [
+          { "id": 3, "title": "Renk", "value": "80 Ruler" }
+        ]
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": "İndirimli",
+    "rating": 4.6,
+    "reviewCount": 2890,
+    "createdAt": "2022-11-15T10:00:00Z",
+    "updatedAt": "2024-12-19T14:00:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Epic Ink Eyeliner",
+    "slug": "epic-ink-eyeliner",
+    "description": "Hassas uçlu, su geçirmez likit eyeliner. Yoğun siyah pigment.",
+    "brandId": 9,
+    "brand": {
+      "id": 9,
+      "name": "NYX Professional",
+      "slug": "nyx-professional",
+      "description": "Profesyonel makyaj ürünleri",
+      "websiteUrl": "https://www.nyxcosmetics.com",
+      "logoUrl": null
+    },
+    "categoryId": 13,
+    "category": null,
+    "variants": [
+      {
+        "id": 14,
+        "price": 189.90,
+        "compareAtPrice": null,
+        "stock": 190,
+        "barcode": "800897836971",
+        "sku": "NYX-EPIC-BLK",
+        "thumbnails": [
+          {
+            "id": 13,
+            "url": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=600",
+            "alt": "Epic Ink Eyeliner"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": null,
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "createdAt": "2023-01-20T10:00:00Z",
+    "updatedAt": "2024-12-18T16:00:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Çikolatalı Gofret 24'lü Paket",
+    "slug": "cikolatali-gofret-24lu-paket",
+    "description": "Sütlü çikolata kaplı, fındıklı gofret. 24 adet avantajlı paket.",
+    "brandId": 10,
+    "brand": {
+      "id": 10,
+      "name": "Ülker",
+      "slug": "ulker",
+      "description": "Türkiye'nin en sevilen gıda markası",
+      "websiteUrl": "https://www.ulker.com.tr",
+      "logoUrl": null
+    },
+    "categoryId": 22,
+    "category": null,
+    "variants": [
+      {
+        "id": 15,
+        "price": 149.90,
+        "compareAtPrice": 179.90,
+        "stock": 500,
+        "barcode": "8690504012345",
+        "sku": "ULK-GOF-24",
+        "thumbnails": [
+          {
+            "id": 14,
+            "url": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=600",
+            "alt": "Çikolatalı Gofret"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": "Avantajlı Paket",
+    "rating": 4.9,
+    "reviewCount": 3421,
+    "createdAt": "2021-01-01T10:00:00Z",
+    "updatedAt": "2024-12-21T06:00:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Cici Bebe Bisküvi 190g",
+    "slug": "cici-bebe-biskuvi-190g",
+    "description": "Bebekler için özel formüllü, besleyici bisküvi. 6 aydan itibaren.",
+    "brandId": 10,
+    "brand": {
+      "id": 10,
+      "name": "Ülker",
+      "slug": "ulker",
+      "description": null,
+      "websiteUrl": null,
+      "logoUrl": null
+    },
+    "categoryId": 22,
+    "category": null,
+    "variants": [
+      {
+        "id": 16,
+        "price": 39.90,
+        "compareAtPrice": null,
+        "stock": 800,
+        "barcode": "8690504054321",
+        "sku": "ULK-CICI-190",
+        "thumbnails": [
+          {
+            "id": 15,
+            "url": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=600",
+            "alt": "Cici Bebe"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": null,
+    "rating": 4.8,
+    "reviewCount": 567,
+    "createdAt": "2020-06-01T10:00:00Z",
+    "updatedAt": "2024-12-20T10:00:00Z"
+  },
+  {
+    "id": 16,
+    "name": "Popkek Kakaolu 6'lı",
+    "slug": "popkek-kakaolu-6li",
+    "description": "Yumuşacık keki, çikolata kaplaması ile lezzetli atıştırmalık.",
+    "brandId": 11,
+    "brand": {
+      "id": 11,
+      "name": "Eti",
+      "slug": "eti",
+      "description": "Lezzetli atıştırmalıklar",
+      "websiteUrl": "https://www.etieti.com.tr",
+      "logoUrl": null
+    },
+    "categoryId": 22,
+    "category": null,
+    "variants": [
+      {
+        "id": 17,
+        "price": 69.90,
+        "compareAtPrice": null,
+        "stock": 650,
+        "barcode": "8690526012345",
+        "sku": "ETI-POP-6",
+        "thumbnails": [
+          {
+            "id": 16,
+            "url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600",
+            "alt": "Popkek"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": null,
+    "rating": 4.5,
+    "reviewCount": 892,
+    "createdAt": "2021-03-15T10:00:00Z",
+    "updatedAt": "2024-12-19T11:00:00Z"
+  },
+  {
+    "id": 17,
+    "name": "Bluetooth Kablosuz Kulaklık",
+    "slug": "bluetooth-kablosuz-kulaklik",
+    "description": "Aktif gürültü engelleme özellikli, 30 saat pil ömrü sunan kablosuz kulaklık.",
+    "brandId": null,
+    "brand": null,
+    "categoryId": 52,
+    "category": null,
+    "variants": [
+      {
+        "id": 18,
+        "price": 1299.90,
+        "compareAtPrice": 1599.90,
+        "stock": 45,
+        "barcode": "1234567890123",
+        "sku": "BT-KUL-001",
+        "thumbnails": [
+          {
+            "id": 17,
+            "url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+            "alt": "Bluetooth Kulaklık"
+          }
+        ],
+        "options": [
+          { "id": 4, "title": "Renk", "value": "Siyah" }
+        ]
+      },
+      {
+        "id": 19,
+        "price": 1299.90,
+        "compareAtPrice": 1599.90,
+        "stock": 30,
+        "barcode": "1234567890124",
+        "sku": "BT-KUL-002",
+        "thumbnails": [
+          {
+            "id": 18,
+            "url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+            "alt": "Bluetooth Kulaklık Beyaz"
+          }
+        ],
+        "options": [
+          { "id": 5, "title": "Renk", "value": "Beyaz" }
+        ]
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": "İndirimli",
+    "rating": 4.4,
+    "reviewCount": 456,
+    "createdAt": "2024-01-01T10:00:00Z",
+    "updatedAt": "2024-12-21T12:00:00Z"
+  },
+  {
+    "id": 18,
+    "name": "Vitamin D3 1000 IU 90 Tablet",
+    "slug": "vitamin-d3-1000-iu-90-tablet",
+    "description": "Kemik sağlığı ve bağışıklık sistemi için D3 vitamini takviyesi.",
+    "brandId": null,
+    "brand": null,
+    "categoryId": 41,
+    "category": null,
+    "variants": [
+      {
+        "id": 20,
+        "price": 199.90,
+        "compareAtPrice": null,
+        "stock": 230,
+        "barcode": "9876543210123",
+        "sku": "VIT-D3-90",
+        "thumbnails": [
+          {
+            "id": 19,
+            "url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600",
+            "alt": "Vitamin D3"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": null,
+    "rating": 4.6,
+    "reviewCount": 321,
+    "createdAt": "2023-09-01T10:00:00Z",
+    "updatedAt": "2024-12-18T08:00:00Z"
+  },
+  {
+    "id": 19,
+    "name": "Omega-3 Balık Yağı 120 Kapsül",
+    "slug": "omega-3-balik-yagi-120-kapsul",
+    "description": "Kalp ve beyin sağlığı için yüksek konsantrasyonlu omega-3 takviyesi.",
+    "brandId": null,
+    "brand": null,
+    "categoryId": 41,
+    "category": null,
+    "variants": [
+      {
+        "id": 21,
+        "price": 349.90,
+        "compareAtPrice": 449.90,
+        "stock": 180,
+        "barcode": "9876543210124",
+        "sku": "OMG-3-120",
+        "thumbnails": [
+          {
+            "id": 20,
+            "url": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=600",
+            "alt": "Omega-3"
+          }
+        ],
+        "options": []
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": "İndirimli",
+    "rating": 4.7,
+    "reviewCount": 543,
+    "createdAt": "2023-10-15T10:00:00Z",
+    "updatedAt": "2024-12-20T09:00:00Z"
+  },
+  {
+    "id": 20,
+    "name": "Yoga Matı 6mm - Mor",
+    "slug": "yoga-mati-6mm-mor",
+    "description": "Kaymaz yüzeyli, taşıma kayışlı 6mm kalınlığında yoga matı.",
+    "brandId": null,
+    "brand": null,
+    "categoryId": 42,
+    "category": null,
+    "variants": [
+      {
+        "id": 22,
+        "price": 399.90,
+        "compareAtPrice": null,
+        "stock": 85,
+        "barcode": "5678901234567",
+        "sku": "YOG-MAT-MOR",
+        "thumbnails": [
+          {
+            "id": 21,
+            "url": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=600",
+            "alt": "Yoga Matı"
+          }
+        ],
+        "options": [
+          { "id": 6, "title": "Renk", "value": "Mor" }
+        ]
+      }
+    ],
+    "previewVideoId": null,
+    "status": 1,
+    "badge": null,
+    "rating": 4.5,
+    "reviewCount": 234,
+    "createdAt": "2024-02-01T10:00:00Z",
+    "updatedAt": "2024-12-17T14:00:00Z"
+  }
+]
