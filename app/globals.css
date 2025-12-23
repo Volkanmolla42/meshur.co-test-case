@@ -1,5 +1,8 @@
 @import 'tailwindcss';
 
+/* Enable class-based dark mode for Tailwind v4 */
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
   /* Brand Colors */
   --color-primary: 249 115 22; /* orange-500 */
