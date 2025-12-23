@@ -3,12 +3,12 @@ import { notFound } from 'next/navigation';
 import { getTranslations } from 'next-intl/server';
 import Image from 'next/image';
 import Link from 'next/link';
-import { ShoppingCart, Truck, Shield, RotateCcw, ChevronRight } from 'lucide-react';
+import { Truck, Shield, RotateCcw, ChevronRight } from 'lucide-react';
 import { getProductBySlug, getRelatedProducts, getAllProductSlugs } from '@/lib/api/products';
-import { Button } from '@/components/atoms/Button';
 import { Badge } from '@/components/atoms/Badge';
 import { ProductGrid } from '@/components/organisms/ProductGrid';
 import { ProductFavoriteButton } from '@/components/molecules/ProductFavoriteButton';
+import { AddToCartButton } from '@/components/molecules/AddToCartButton';
 import {
     formatPrice,
     getLowestPrice,
@@ -191,8 +191,8 @@ export default async function ProductPage({ params }: ProductPageProps) {
                                         <svg
                                             key={star}
                                             className={`h-5 w-5 ${star <= Math.round(product.rating!)
-                                                    ? 'text-yellow-400'
-                                                    : 'text-gray-200 dark:text-gray-700'
+                                                ? 'text-yellow-400'
+                                                : 'text-gray-200 dark:text-gray-700'
                                                 }`}
                                             fill="currentColor"
                                             viewBox="0 0 20 20"
@@ -230,10 +230,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
 
                         {/* Actions */}
                         <div className="mt-8 flex gap-3">
-                            <Button size="lg" fullWidth disabled={!inStock}>
-                                <ShoppingCart className="mr-2 h-5 w-5" />
-                                {t('addToCart')}
-                            </Button>
+                            <AddToCartButton product={product} disabled={!inStock} />
                             <ProductFavoriteButton product={product} />
                         </div>
 

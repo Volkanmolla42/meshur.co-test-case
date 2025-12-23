@@ -176,17 +176,17 @@ export function ProductCard({ product, locale, priority = false }: ProductCardPr
                 />
             </button>
 
-            {/* Add to Cart Button - Appears on hover */}
+            {/* Add to Cart Button - Always visible */}
             {inStock && (
                 <motion.button
-                    initial={{ opacity: 0, y: 10 }}
-                    whileHover={{ scale: 1.05 }}
+                    whileHover={{ scale: 1.1 }}
+                    whileTap={{ scale: 0.95 }}
                     onClick={(e) => {
                         e.preventDefault();
                         e.stopPropagation();
                         addToCart(product, product.variants[0]);
                     }}
-                    className="absolute bottom-20 right-4 z-10 rounded-full bg-orange-500 p-3 text-white opacity-0 shadow-lg transition-opacity group-hover:opacity-100"
+                    className="absolute bottom-4 right-4 z-10 rounded-full bg-orange-500 p-2.5 text-white shadow-lg transition-colors hover:bg-orange-600"
                     aria-label="Sepete ekle"
                 >
                     <ShoppingCart className="h-5 w-5" />

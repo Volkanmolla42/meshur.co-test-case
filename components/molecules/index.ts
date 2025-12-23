@@ -5,3 +5,4 @@ export { ProductFavoriteButton } from './ProductFavoriteButton';
 export { Breadcrumb, type BreadcrumbItem } from './Breadcrumb';
 export { SortDropdown } from './SortDropdown';
 export { CategoryFilters } from './CategoryFilters';
+export { AddToCartButton } from './AddToCartButton';

@@ -92,7 +92,7 @@ export default async function HomePage({ params }: HomePageProps) {
         <div className="flex flex-col">
             {/* Hero Section */}
             <section className="relative overflow-hidden bg-linear-to-r from-orange-500 to-orange-600 py-16 text-white lg:py-24">
-                <div className="absolute inset-0 bg-[radial-gradient(circle_at_25%_25%,_rgba(255,255,255,0.15)_1px,_transparent_1px),radial-gradient(circle_at_75%_75%,_rgba(255,255,255,0.1)_1px,_transparent_1px)] bg-[length:40px_40px]" />
+                <div className="absolute inset-0 bg-[radial-gradient(circle_at_25%_25%,rgba(255,255,255,0.15)_1px,transparent_1px),radial-gradient(circle_at_75%_75%,rgba(255,255,255,0.1)_1px,transparent_1px)] bg-size-[40px_40px]" />
                 <div className="container relative mx-auto px-4">
                     <div className="mx-auto max-w-2xl text-center">
                         <h1 className="text-3xl font-bold leading-tight lg:text-5xl">
