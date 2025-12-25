@@ -35,8 +35,8 @@ const baseProduct: Product = {
     badge: null,
     rating: 4.8,
     reviewCount: 234,
-    createdAt: '2024-01-01',
-    updatedAt: '2024-01-01',
+    createdAt: '2025-01-01',
+    updatedAt: '2025-01-01',
 };
 
 const discountedProduct: Product = {

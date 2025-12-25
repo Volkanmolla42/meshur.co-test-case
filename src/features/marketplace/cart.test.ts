@@ -40,8 +40,8 @@ const mockProduct: Product = {
   badge: null,
   rating: 4.5,
   reviewCount: 100,
-  createdAt: '2024-01-01',
-  updatedAt: '2024-01-01',
+  createdAt: '2025-01-01',
+  updatedAt: '2025-01-01',
 };
 
 const mockProduct2: Product = {
