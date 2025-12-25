@@ -19,14 +19,9 @@
       }
     ],
     "paths": {
-      "@/*": ["./*"],
-      "@/components/*": ["./components/*"],
-      "@/lib/*": ["./lib/*"],
-      "@/store/*": ["./store/*"],
-      "@/types/*": ["./types/*"],
-      "@/data/*": ["./data/*"],
-      "@/i18n/*": ["./i18n/*"]
-    }
+      "@/*": ["./src/*"]
+    },
+    "types": ["jest"]
   },
   "include": [
     "next-env.d.ts",

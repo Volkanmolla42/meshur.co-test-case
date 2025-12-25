@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "name": "Güzellik & Kişisel Bakım",
+    "slug": "guzellik-kisisel-bakim",
+    "parentCategoryId": null,
+    "imageId": 1,
+    "image": {
+      "id": 1,
+      "url": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400",
+      "alt": "Güzellik & Kişisel Bakım"
+    },
+    "children": [
+      {
+        "id": 11,
+        "name": "Cilt Bakımı",
+        "slug": "cilt-bakimi",
+        "parentCategoryId": 1,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      },
+      {
+        "id": 12,
+        "name": "Saç Bakımı",
+        "slug": "sac-bakimi",
+        "parentCategoryId": 1,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      },
+      {
+        "id": 13,
+        "name": "Makyaj",
+        "slug": "makyaj",
+        "parentCategoryId": 1,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      }
+    ],
+    "attributes": [],
+    "productCount": 156
+  },
+  {
+    "id": 2,
+    "name": "Gıda & İçecek",
+    "slug": "gida-icecek",
+    "parentCategoryId": null,
+    "imageId": 2,
+    "image": {
+      "id": 2,
+      "url": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400",
+      "alt": "Gıda & İçecek"
+    },
+    "children": [
+      {
+        "id": 21,
+        "name": "Kahvaltılık",
+        "slug": "kahvaltilik",
+        "parentCategoryId": 2,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      },
+      {
+        "id": 22,
+        "name": "Atıştırmalık",
+        "slug": "atistirmalik",
+        "parentCategoryId": 2,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      },
+      {
+        "id": 23,
+        "name": "İçecekler",
+        "slug": "icecekler",
+        "parentCategoryId": 2,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      }
+    ],
+    "attributes": [],
+    "productCount": 234
+  },
+  {
+    "id": 3,
+    "name": "Ev & Yaşam",
+    "slug": "ev-yasam",
+    "parentCategoryId": null,
+    "imageId": 3,
+    "image": {
+      "id": 3,
+      "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400",
+      "alt": "Ev & Yaşam"
+    },
+    "children": [
+      {
+        "id": 31,
+        "name": "Dekorasyon",
+        "slug": "dekorasyon",
+        "parentCategoryId": 3,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      },
+      {
+        "id": 32,
+        "name": "Mutfak",
+        "slug": "mutfak",
+        "parentCategoryId": 3,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      }
+    ],
+    "attributes": [],
+    "productCount": 189
+  },
+  {
+    "id": 4,
+    "name": "Sağlık & Spor",
+    "slug": "saglik-spor",
+    "parentCategoryId": null,
+    "imageId": 4,
+    "image": {
+      "id": 4,
+      "url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400",
+      "alt": "Sağlık & Spor"
+    },
+    "children": [
+      {
+        "id": 41,
+        "name": "Vitamin & Takviye",
+        "slug": "vitamin-takviye",
+        "parentCategoryId": 4,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      },
+      {
+        "id": 42,
+        "name": "Spor Ekipmanları",
+        "slug": "spor-ekipmanlari",
+        "parentCategoryId": 4,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      }
+    ],
+    "attributes": [],
+    "productCount": 98
+  },
+  {
+    "id": 5,
+    "name": "Elektronik",
+    "slug": "elektronik",
+    "parentCategoryId": null,
+    "imageId": 5,
+    "image": {
+      "id": 5,
+      "url": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=400",
+      "alt": "Elektronik"
+    },
+    "children": [
+      {
+        "id": 51,
+        "name": "Telefon Aksesuarları",
+        "slug": "telefon-aksesuarlari",
+        "parentCategoryId": 5,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      },
+      {
+        "id": 52,
+        "name": "Kulaklık & Hoparlör",
+        "slug": "kulaklik-hoparlor",
+        "parentCategoryId": 5,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      }
+    ],
+    "attributes": [],
+    "productCount": 145
+  },
+  {
+    "id": 6,
+    "name": "Moda",
+    "slug": "moda",
+    "parentCategoryId": null,
+    "imageId": 6,
+    "image": {
+      "id": 6,
+      "url": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400",
+      "alt": "Moda"
+    },
+    "children": [
+      {
+        "id": 61,
+        "name": "Kadın Giyim",
+        "slug": "kadin-giyim",
+        "parentCategoryId": 6,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      },
+      {
+        "id": 62,
+        "name": "Erkek Giyim",
+        "slug": "erkek-giyim",
+        "parentCategoryId": 6,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      },
+      {
+        "id": 63,
+        "name": "Aksesuar",
+        "slug": "aksesuar",
+        "parentCategoryId": 6,
+        "imageId": null,
+        "image": null,
+        "children": [],
+        "attributes": []
+      }
+    ],
+    "attributes": [],
+    "productCount": 312
+  }
+]

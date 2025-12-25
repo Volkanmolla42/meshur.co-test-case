@@ -1,9 +1,10 @@
 import type { NextConfig } from 'next';
 import createNextIntlPlugin from 'next-intl/plugin';
 
-const withNextIntl = createNextIntlPlugin('./i18n/request.ts');
+const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts');
 
 const nextConfig: NextConfig = {
+  reactStrictMode: true,
   // Image optimization
   images: {
     remotePatterns: [
@@ -16,11 +17,6 @@ const nextConfig: NextConfig = {
         hostname: 'upload.wikimedia.org',
       },
     ],
-  },
-  // Experimental features
-  experimental: {
-    // Enable React Compiler for better performance
-    // reactCompiler: true,
   },
 };
 
